@@ -1,3 +1,3 @@
 export function submodule(){
-    console.log("module");
+    console.log("submodule");
 }
