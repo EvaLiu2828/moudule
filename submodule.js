@@ -1,1 +1,3 @@
-console.log("module");
+export function submodule(){
+    console.log("module");
+}
